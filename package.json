@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/noto-sans": "^4.3.0",
+    "gatsby": "^3.4.2",
+    "gatsby-plugin-image": "^1.4.1",
+    "gatsby-plugin-sharp": "^3.4.2",
+    "gatsby-source-filesystem": "^3.4.0",
+    "gatsby-transformer-csv": "^3.4.0",
+    "gatsby-transformer-sharp": "^3.4.0",
+    "install": "^0.13.0",
+    "npm": "^7.12.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

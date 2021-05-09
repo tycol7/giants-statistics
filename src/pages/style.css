@@ -1,0 +1,48 @@
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font: 112.5%/1.45em 'Noto Sans', sans-serif;
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+body {
+    margin: 20px auto;
+    width: 800px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: rgb(54, 54, 54);
+    color: white;
+    font-weight: normal;
+    word-wrap: break-word;
+    font-kerning: normal;
+    -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+    -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+    -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+    font-feature-settings: "kern", "liga", "clig", "calt";
+    overflow-x: auto; 
+}
+.center {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+}
+
+td:not(:first-child):not(:last-child) {
+    border-right: 1px solid rgb(146, 146, 146);
+    border-left: 1px solid rgb(146, 146, 146);
+}
+
+tr {
+    border-top: 1px solid rgb(146, 146, 146);
+    border-bottom: 1px solid rgb(146, 146, 146);
+}
+
+tbody td {
+    font-weight: normal;
+}
+th, td {
+    text-align: left;
+    text-transform: capitalize;
+    padding: 4px 10px;
+}

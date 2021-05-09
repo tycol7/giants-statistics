@@ -1,0 +1,9 @@
+pitcher_name,pitcher_team,pitch_release_velocity,pitch_type,inning,balls,strikes,outs
+Jeff Samardzija,SF,90.6276,cutter,4,0,0,2
+Dereck Rodriguez,SF,87.9241,four_seam,3,0,0,0
+Chi Chi Gonzalez,COL,91.3536,four_seam,5,2,0,1
+Bryan Shaw,COL,90.0191,cutter,8,0,1,0
+Drew Pomeranz,SF,90.6276,four_seam,6,0,0,0
+Jairo Diaz,COL,87.9241,slider,7,0,1,2
+Bryan Shaw,COL,90.0191,cutter,10,2,1,1
+Jake McGee,COL,91.3536,four_seam,9,0,0,2
