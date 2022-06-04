@@ -70,7 +70,7 @@ This command will output six CSVs with baseball statistics in `csv`
 <!-- CONTACT -->
 ## Contact
 
-Tyler Coleman tylerdc.co
+Tyler Coleman [tylerd.co](https://tylerd.co)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
