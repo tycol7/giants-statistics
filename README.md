@@ -2,6 +2,7 @@
 </br>
 
 # San Francisco Giants Project - [https://giants.netlify.app](https://giants.netlify.app)
+A take-home assignment from the San Francisco Giants. Given a JSON file of play-by-play data, answer statistical questions. Project uses Pandas to crunch the data, outputs to CSV, then a Gatsby app displays the results. The Giants said the solution is 100% correct. Publishing since the assignment is over a year old.
 ![Screen shot](screen_shot.png)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -52,15 +53,13 @@ Analyze play by play baseball data to answer statistical questions.
 
 In a terminal, run:
    ```sh
-   cd source
    python3 munge.py
    ```
-This command will output six CSVs with baseball statistics in `source/csv`
+This command will output six CSVs with baseball statistics in `csv`
 
 ### Running the website
 1. In a terminal, run:
     ```sh
-    cd source/web
     gatsby develop
     ```
 2. Visit the following address in any browser:
@@ -71,8 +70,7 @@ This command will output six CSVs with baseball statistics in `source/csv`
 <!-- CONTACT -->
 ## Contact
 
-Tyler Coleman - tylerdc@hey.com - tylerdc.co
-
+Tyler Coleman tylerdc.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
